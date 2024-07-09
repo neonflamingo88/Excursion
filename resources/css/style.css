@@ -1,0 +1,47 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+    margin: auto 3%;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.copyright {
+    text-align: right;
+}
+
+.iphone {
+    display: block;
+    margin: auto;
+}
+
+.camping {
+    display: block;
+    margin: auto;
+}
+
+.icon {
+    display: block;
+    margin: 5% auto;
+}
